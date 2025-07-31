@@ -6,13 +6,7 @@ A React-based meal planning application built with React Router v7, TypeScript, 
 
 - 📅 Weekly meal plan overview
 - 🍽️ Displays breakfast, lunch, and dinner for each day
-- ⭐ Meal rating system
-- 🔄 Sort meals by rating functionality
-- 📱 Responsive grid layout using Tailwind CSS
-- 🔗 Connects to backend API for meal data
-- 🚀 Server-side rendering with React Router v7
-- ⚡️ Hot Module Replacement (HMR)
-- � TypeScript by default
+
 
 ## Tech Stack
 
